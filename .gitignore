@@ -2,3 +2,8 @@
 /.venv
 /.vscode
 /__pycache__
+*.mp3
+*.log
+RLbook_audiobook/
+*_audiobook/
+audiobooks/

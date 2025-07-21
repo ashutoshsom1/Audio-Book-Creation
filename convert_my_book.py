@@ -38,13 +38,18 @@ def convert_rl_book():
         
         # Convert the book
         result = converter.convert(
-            merge_files=True,      # Merge all parts into one file
-            cleanup_parts=True     # Remove individual parts after merging
+            merge_files=False,     # Disable merging to avoid pydub issues
+            cleanup_parts=False    # Keep all individual parts
         )
         
         print()
         print("🎉 SUCCESS! Your audiobook is ready!")
-        print(f"📁 Location: {result}")
+        if isinstance(result, list):
+            print(f"📁 Location: {converter.output_dir}")
+            print(f"📄 Files created: {len(result)} audio files")
+            print("   (Individual MP3 files for each section)")
+        else:
+            print(f"📁 Location: {result}")
         print()
         print("You can now listen to your audiobook using any audio player.")
         

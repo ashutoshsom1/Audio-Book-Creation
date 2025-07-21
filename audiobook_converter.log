@@ -1,0 +1,73 @@
+2025-07-21 12:30:17,169 - INFO - Initialized converter for: C:\Users\ashutosh.somvanshi\Downloads\RLbook2020.pdf
+2025-07-21 12:30:17,169 - INFO - Output directory: RLbook_audiobook
+2025-07-21 12:30:17,170 - INFO - Starting audiobook conversion process...
+2025-07-21 12:30:17,170 - INFO - Starting PDF text extraction...
+2025-07-21 12:30:17,540 - INFO - Processing 548 pages...
+2025-07-21 12:30:17,738 - INFO - Processed 10/548 pages
+2025-07-21 12:30:18,137 - INFO - Processed 20/548 pages
+2025-07-21 12:30:18,973 - INFO - Processed 30/548 pages
+2025-07-21 12:30:19,467 - INFO - Processed 40/548 pages
+2025-07-21 12:30:20,384 - INFO - Processed 50/548 pages
+2025-07-21 12:30:21,456 - INFO - Processed 60/548 pages
+2025-07-21 12:30:22,405 - INFO - Processed 70/548 pages
+2025-07-21 12:30:23,308 - INFO - Processed 80/548 pages
+2025-07-21 12:30:24,509 - INFO - Processed 90/548 pages
+2025-07-21 12:30:25,036 - INFO - Processed 100/548 pages
+2025-07-21 12:30:25,680 - INFO - Processed 110/548 pages
+2025-07-21 12:30:26,135 - INFO - Processed 120/548 pages
+2025-07-21 12:30:26,670 - INFO - Processed 130/548 pages
+2025-07-21 12:30:27,089 - INFO - Processed 140/548 pages
+2025-07-21 12:30:27,516 - INFO - Processed 150/548 pages
+2025-07-21 12:30:28,065 - INFO - Processed 160/548 pages
+2025-07-21 12:30:28,542 - INFO - Processed 170/548 pages
+2025-07-21 12:30:29,050 - INFO - Processed 180/548 pages
+2025-07-21 12:30:29,532 - INFO - Processed 190/548 pages
+2025-07-21 12:30:30,058 - INFO - Processed 200/548 pages
+2025-07-21 12:30:30,653 - INFO - Processed 210/548 pages
+2025-07-21 12:30:31,107 - INFO - Processed 220/548 pages
+2025-07-21 12:30:31,666 - INFO - Processed 230/548 pages
+2025-07-21 12:30:32,746 - INFO - Processed 240/548 pages
+2025-07-21 12:30:33,260 - INFO - Processed 250/548 pages
+2025-07-21 12:30:34,129 - INFO - Processed 260/548 pages
+2025-07-21 12:30:35,125 - INFO - Processed 270/548 pages
+2025-07-21 12:30:35,973 - INFO - Processed 280/548 pages
+2025-07-21 12:30:37,925 - INFO - Processed 290/548 pages
+2025-07-21 12:30:39,016 - INFO - Processed 300/548 pages
+2025-07-21 12:30:39,496 - INFO - Processed 310/548 pages
+2025-07-21 12:30:40,231 - INFO - Processed 320/548 pages
+2025-07-21 12:30:41,158 - INFO - Processed 330/548 pages
+2025-07-21 12:30:41,768 - INFO - Processed 340/548 pages
+2025-07-21 12:30:42,327 - INFO - Processed 350/548 pages
+2025-07-21 12:30:42,952 - INFO - Processed 360/548 pages
+2025-07-21 12:30:43,315 - INFO - Processed 370/548 pages
+2025-07-21 12:30:43,916 - INFO - Processed 380/548 pages
+2025-07-21 12:30:44,389 - INFO - Processed 390/548 pages
+2025-07-21 12:30:45,222 - INFO - Processed 400/548 pages
+2025-07-21 12:30:45,921 - INFO - Processed 410/548 pages
+2025-07-21 12:30:46,971 - INFO - Processed 420/548 pages
+2025-07-21 12:30:47,822 - INFO - Processed 430/548 pages
+2025-07-21 12:30:48,402 - INFO - Processed 440/548 pages
+2025-07-21 12:30:49,060 - INFO - Processed 450/548 pages
+2025-07-21 12:30:49,756 - INFO - Processed 460/548 pages
+2025-07-21 12:30:51,947 - INFO - Processed 470/548 pages
+2025-07-21 12:30:53,146 - INFO - Processed 480/548 pages
+2025-07-21 12:30:54,800 - INFO - Processed 490/548 pages
+2025-07-21 12:30:56,533 - INFO - Processed 500/548 pages
+2025-07-21 12:30:57,980 - INFO - Processed 510/548 pages
+2025-07-21 12:30:59,032 - INFO - Processed 520/548 pages
+2025-07-21 12:30:59,904 - INFO - Processed 530/548 pages
+2025-07-21 12:31:00,693 - INFO - Processed 540/548 pages
+2025-07-21 12:31:01,141 - INFO - Processed 548/548 pages
+2025-07-21 12:31:01,141 - INFO - Text extraction completed. Total characters: 1569961
+2025-07-21 12:31:01,143 - INFO - Cleaning text...
+2025-07-21 12:31:01,214 - INFO - Text cleaned. Final character count: 1569131
+2025-07-21 12:31:01,215 - INFO - Splitting text into chunks of 4500 characters...
+2025-07-21 12:31:01,250 - INFO - Text split into 356 chunks
+2025-07-21 12:31:01,251 - INFO - Starting TTS conversion for 356 chunks...
+2025-07-21 12:31:01,251 - INFO - Processing chunk 1/356...
+2025-07-21 12:32:08,622 - INFO - Saved: RLbook2020_part_001.mp3
+2025-07-21 12:32:08,623 - INFO - Processing chunk 2/356...
+2025-07-21 12:32:50,659 - INFO - Saved: RLbook2020_part_002.mp3
+2025-07-21 12:32:50,659 - INFO - Processing chunk 3/356...
+2025-07-21 12:33:34,884 - INFO - Saved: RLbook2020_part_003.mp3
+2025-07-21 12:33:34,885 - INFO - Processing chunk 4/356...
